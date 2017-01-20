@@ -1,0 +1,25 @@
+{
+  "name": "auto-invite-slack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konojunya/auto-invite-slack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konojunya/auto-invite-slack/issues"
+  },
+  "homepage": "https://github.com/konojunya/auto-invite-slack#readme",
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.79.0",
+    "url": "^0.11.0"
+  }
+}
